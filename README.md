@@ -12,28 +12,16 @@ I am a Full Stack Developer focused on building functional, real-world software.
 
 ---
 
-###  Core Tech Stack & Toolkit
+### 🛠️ Core Tech Stack & Toolkit
 
-<p align="left">
-  <img src="https://shields.io" height="25" alt="Python" />
-  <img src="https://shields.io" height="25" alt="Django" />
-  <img src="https://shields.io" height="25" alt="HTML5" />
-  <img src="https://shields.io" height="25" alt="CSS3" />
-  <img src="https://shields.io" height="25" alt="JavaScript" />
-  <img src="https://shields.io" height="25" alt="VS Code" />
-  <img src="https://shields.io" height="25" alt="Git" />
-  <img src="https://shields.io" height="25" alt="GitHub" />
-</p>
+*   **Backend Languages:** `Python`
+*   **Web Frameworks:** `Django` (Roadmap)
+*   **Frontend Core:** `HTML5` | `CSS3` | `JavaScript (ES6+)`
+*   **Environment & Controls:** `Visual Studio Code` | `Git` | `GitHub`
 
 ---
 
-###  Performance & Development Analytics
+### 📊 Project Repositories & Metrics
 
-<p align="center">
-  <img src="https://vercel.app" width="48%" alt="GitHub Stats" />
-  <img src="https://vercel.app" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" width="97%" alt="GitHub Streak" />
-</p>
+*   **Primary Sandbox:** [Learning-Frontend](https://github.com) — Documenting project-based frontend interfaces.
+*   **Development Log:** Metrics will populate naturally directly via the native GitHub contribution grid as local commits are pushed.
