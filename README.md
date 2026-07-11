@@ -12,7 +12,7 @@ I am a Full Stack Developer focused on building functional, real-world software.
 
 ---
 
-### 🛠️ Core Tech Stack & Toolkit
+###  Core Tech Stack & Toolkit
 
 *   **Backend Languages:** `Python`
 *   **Web Frameworks:** `Django` (Roadmap)
@@ -21,7 +21,7 @@ I am a Full Stack Developer focused on building functional, real-world software.
 
 ---
 
-### 📊 Project Repositories & Metrics
+###  Project Repositories & Metrics
 
 *   **Primary Sandbox:** [Learning-Frontend](https://github.com) — Documenting project-based frontend interfaces.
 *   **Development Log:** Metrics will populate naturally directly via the native GitHub contribution grid as local commits are pushed.
