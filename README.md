@@ -14,23 +14,26 @@ I am a Full Stack Developer focused on building functional, real-world software.
 
 ###  Core Tech Stack & Toolkit
 
-![Python](https://shields.io) 
-![Django](https://shields.io) 
-![HTML5](https://shields.io) 
-![CSS3](https://shields.io) 
-![JavaScript](https://shields.io) 
-![VS Code](https://shields.io) 
-![Git](https://shields.io) 
-![GitHub](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" height="25" alt="Python" />
+  <img src="https://shields.io" height="25" alt="Django" />
+  <img src="https://shields.io" height="25" alt="HTML5" />
+  <img src="https://shields.io" height="25" alt="CSS3" />
+  <img src="https://shields.io" height="25" alt="JavaScript" />
+  <img src="https://shields.io" height="25" alt="VS Code" />
+  <img src="https://shields.io" height="25" alt="Git" />
+  <img src="https://shields.io" height="25" alt="GitHub" />
+</p>
 
 ---
 
 ###  Performance & Development Analytics
 
-[![Medha's GitHub Stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://vercel.app" width="48%" alt="GitHub Stats" />
+  <img src="https://vercel.app" width="48%" alt="Top Languages" />
+</p>
 
-[![Top Languages](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://herokuapp.com)](https://github.com)
-
-
+<p align="center">
+  <img src="https://herokuapp.com" width="97%" alt="GitHub Streak" />
+</p>
