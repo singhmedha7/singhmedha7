@@ -12,33 +12,25 @@ I am a Full Stack Developer focused on building functional, real-world software.
 
 ---
 
----
-
 ###  Core Tech Stack & Toolkit
 
-<p align="left">
-  <!-- Backend Ecosystem -->
-  <img src="https://shields.io" alt="Python" height="28" />&nbsp;
-  <img src="https://shields.io" alt="Django" height="28" />&nbsp;
-  <!-- Languages & Frontend Core -->
-  <img src="https://shields.io" alt="HTML5" height="28" />&nbsp;
-  <img src="https://shields.io" alt="CSS3" height="28" />&nbsp;
-  <img src="https://shields.io" alt="JavaScript" height="28" />&nbsp;
-  <!-- Tools & Infrastructure -->
-  <img src="https://shields.io" alt="VS Code" height="28" />&nbsp;
-  <img src="https://shields.io" alt="Git" height="28" />&nbsp;
-  <img src="https://shields.io" alt="GitHub" height="28" />
-</p>
+![Python](https://shields.io) 
+![Django](https://shields.io) 
+![HTML5](https://shields.io) 
+![CSS3](https://shields.io) 
+![JavaScript](https://shields.io) 
+![VS Code](https://shields.io) 
+![Git](https://shields.io) 
+![GitHub](https://shields.io)
 
 ---
 
 ###  Performance & Development Analytics
 
-<p align="center">
-  <img src="https://vercel.app" alt="Medha's GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
+[![Medha's GitHub Stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="97%" />
-</p>
+[![Top Languages](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://herokuapp.com)](https://github.com)
+
+
