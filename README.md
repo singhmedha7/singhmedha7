@@ -1,6 +1,6 @@
 # Hi there, I'm Medha. 👋
 
-I am a Full Stack Developer focused on building functional, real-world software. Right now, I am sharpening my frontend foundation through project-based learning—combining traditional programming methods with modern AI workflows—before mastering core Python fundamentals and scaling up to Django for server-side applications.
+I am a Full Stack Developer focused on building functional, real-world software. Right now, I am sharpening my frontend foundation through project-based learning, combining traditional programming methods with modern AI workflows, before mastering core Python fundamentals and scaling up to Django for server-side applications.
 
 ---
 
